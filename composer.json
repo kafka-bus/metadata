@@ -21,7 +21,7 @@
     "require": {
         "php": "^8.2",
         "ext-rdkafka": "*",
-        "kafka-bus/core": "^2.0"
+        "kafka-bus/core": "^2.2"
     },
     "autoload": {
         "psr-4": {
