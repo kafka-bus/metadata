@@ -1,15 +1,23 @@
 {
     "name": "kafka-bus/metadata",
-    "description": "Kafka cluster metadata for Kafka Bus: topics, partitions, consumer group offsets inspection and administration",
+    "description": "Inspect Apache Kafka topics, partitions and consumer group offsets from PHP and administer committed offsets",
+    "type": "library",
     "keywords": [
+        "php",
         "kafka",
+        "apache-kafka",
         "kafka-bus",
-        "Apache Kafka",
         "metadata",
         "partitions",
+        "consumer-group",
         "offsets"
     ],
     "homepage": "https://github.com/kafka-bus/metadata",
+    "support": {
+        "issues": "https://github.com/kafka-bus/kafka-bus/issues",
+        "source": "https://github.com/kafka-bus/metadata",
+        "docs": "https://github.com/kafka-bus/metadata#readme"
+    },
     "license": "MIT",
     "authors": [
         {
